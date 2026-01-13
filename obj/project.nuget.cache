@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cQ9kZBq9B2o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACT-STUDENT\\Downloads\\PLACTECUGHH\\PLACTECUGHH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACT-STUDENT\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
